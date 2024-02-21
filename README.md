@@ -1,4 +1,4 @@
-# araba-kiralama-proje
+# car
 html css
 # araba-kiralama-proje
 
@@ -14,3 +14,5 @@ html css
 
 ![](images/arabaprojesi.gif)# car-rental
 # car-rental
+# car
+# car
