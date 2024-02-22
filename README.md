@@ -1,6 +1,6 @@
-# car
+# araba kiralama
 html css
-# araba-kiralama-proje
+# araba kiralama-proje
 
 # ekran resmi
 
@@ -16,3 +16,4 @@ html css
 # car-rental
 # car
 # car
+# araba-kiralama
