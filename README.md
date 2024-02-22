@@ -1,4 +1,7 @@
-# kiralama
+# benim-arabam
+
+
+
 # kiralama
 html css
 # araba kiralama-proje
@@ -6,15 +9,13 @@ html css
 # ekran resmi
 
 ![](images/car%20rental.png.png)
+ 
 
-#  video 
 
-![](images/arabaprojesi.mp4)
 
 #  gif
 
 ![](images/arabaprojesi.gif)# car-rental
 
-# kiralama
-# araba
-# araba
+
+# benim-arabam
